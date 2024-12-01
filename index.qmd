@@ -15,8 +15,8 @@ about:
     - text: "{{< fa envelope >}} Email"
       href: mailto:sluan6@jh.edu
     - icon: resume
-      text: "{{< fa file >}} Resume"
-      href: https://1drv.ms/b/s!Ah2ZTa_nNK08q99FqaNAvxTQi2g3Pg?e=ZiyNPj
+      text: "{{< fa file >}} CV"
+      href: https://1drv.ms/w/s!Ah2ZTa_nNK08sbohufrEsOjSquKlIA?e=JazhhY
 ---
 
 Hi, I'm Shu Luan. Welcome to my website! I'm currently a ScM [Biostatistics](https://www.jhsph.edu/departments/biostatistics/) student at [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu/). If you are interested in learning more about me, you can find a brief bio in my **about** page. I have linked some of the ways to connect with me below, please feel free to check out.
