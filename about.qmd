@@ -5,7 +5,9 @@ toc: false
 
 ### Bio
 
-I'm currently a ScM [Biostatistics](https://www.jhsph.edu/departments/biostatistics/) student at [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu/). During my undergraduate studies, I have been doing single cell transcriptomics research on Human Plasma Cell Maturation in [Dr. Greg Gibson's lab](https://ggibsongt.wixsite.com/gibsongatech) at [Georgia Tech](https://www.gatech.edu/). This experience inspired me to look into the statistical methods behind high dimensional data analysis. Motivated by a desire to delve deeper into statistical theories, I chose Johns Hopkins as the platform to refine my skills and apply this knowledge to make informed and responsible decisions in data analysis.
+I'm a ScM [Biostatistics](https://www.jhsph.edu/departments/biostatistics/) student at [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu/). During my undergraduate studies, I have been doing single cell transcriptomics research on Human Plasma Cell Maturation in [Dr. Greg Gibson's lab](https://ggibsongt.wixsite.com/gibsongatech) at [Georgia Tech](https://www.gatech.edu/). This experience inspired me to look into the statistical methods behind high dimensional data analysis. Motivated by a desire to delve deeper into statistical theories, I chose Johns Hopkins as the platform to refine my skills and apply this knowledge to make informed and responsible decisions in data analysis.
+
+I'm currently working with [Dr. Brian Caffo](https://publichealth.jhu.edu/faculty/1010/brian-s-caffo) and [Dr. Stephanie Hicks](https://publichealth.jhu.edu/faculty/3639/stephanie-c-hicks) developing novel deep learning algorithms to extract insights from single-cell and spatial transcriptomics data. In my future research, I aim to incorporate explainable AI to develop robust and interpretable deep learning / machine learning methods for high-dimensional biomedical data.
 
 Outside of academics, I like photography, traveling, cooking and bartending. I post some of my photos (include my foods and drinks) on [Instagram](https://www.instagram.com/shu.luan_photo/).
 
