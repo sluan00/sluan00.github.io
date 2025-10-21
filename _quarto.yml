@@ -16,6 +16,7 @@ format:
     theme: 
       light: minty
       dark: solar
+    default-theme: dark
     css: styles.css
     toc: true
     code-fold: true
