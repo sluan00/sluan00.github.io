@@ -1,3 +1,3 @@
 ## Personal Website Project
 
-Link: https://sluan-jh.github.io/
+Link: https://sluan00.github.io/
