@@ -5,18 +5,24 @@ toc: false
 
 ### Bio
 
-I'm a ScM [Biostatistics](https://www.jhsph.edu/departments/biostatistics/) student at [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu/). During my undergraduate studies, I have been doing single cell transcriptomics research on Human Plasma Cell Maturation in [Dr. Greg Gibson's lab](https://ggibsongt.wixsite.com/gibsongatech) at [Georgia Tech](https://www.gatech.edu/). This experience inspired me to look into the statistical methods behind high dimensional data analysis. Motivated by a desire to delve deeper into statistical theories, I chose Johns Hopkins as the platform to refine my skills and apply this knowledge to make informed and responsible decisions in data analysis.
+I'm a PhD student in Data Science at University of Chicago. During my undergraduate studies, I have been doing single cell transcriptomics research on Human Plasma Cell Maturation in [Dr. Greg Gibson's lab](https://ggibsongt.wixsite.com/gibsongatech) at [Georgia Tech](https://www.gatech.edu/). This experience inspired me to look into the statistical methods behind high dimensional data analysis. Motivated by a desire to delve deeper into statistical theories, I chose Johns Hopkins as the platform to refine my skills and apply this knowledge to make informed and responsible decisions in data analysis.
 
-I'm currently working with [Dr. Brian Caffo](https://publichealth.jhu.edu/faculty/1010/brian-s-caffo) and [Dr. Stephanie Hicks](https://publichealth.jhu.edu/faculty/3639/stephanie-c-hicks) developing novel deep learning algorithms to extract insights from single-cell and spatial transcriptomics data. In my future research, I aim to incorporate explainable AI to develop robust and interpretable deep learning / machine learning methods for high-dimensional biomedical data.
+For the second year of my master's study, I worked with [Dr. Brian Caffo](https://publichealth.jhu.edu/faculty/1010/brian-s-caffo) on a Variational Autoencoder (VAE) based disentanglment model for Human neuron single-cell transcriptomics data. I also worked with [Dr. Stephanie Hicks](https://publichealth.jhu.edu/faculty/3639/stephanie-c-hicks) on exploring the signal-noise tradeoff in contrastive-learning-based and adversarial-based integration methods for spatial transcriptomics data. These experiences helped me gained valuable insight on the rigorous workflow of data science research and new perspectives on the unique challenges in single-cell / spatial transcriptomics data. 
 
-Outside of academics, I like photography, traveling, cooking and bartending. I post some of my photos (include my foods and drinks) on [Instagram](https://www.instagram.com/shu.luan_photo/).
+At the University of Chicago, I'm dedicated to expand my mathematic skillset to take on new data science challenges. I'm looking forward to further my understanding in linear algebra and statistics theories while extending my study into functional analysis. I believe gaining these knowledge will prepare me with proper intuitions for the future research work. 
+
+In my free times, I mostly enjoy chill activities that allow introspective time such as photography, traveling, cooking and bartending. I'm not particularly active on social media though I occasionally post my photos (include my foods and drinks) on [Instagram](https://www.instagram.com/shu.luan_photo/). Since moving to Chicago, I like to explore bars and restaurants in downtown most weekends. I've also recently been reading with the GRIT book club at University of Chicago. At the current episode of my life, I strive to understand the commonalities that made us inherently human and seek to connect with others through these common grounds. I believe, with proper communication, people can deeply understand each other across arbitrary cultural and socioeconomic barriers. 
 
 ### Education
 
-**Johns Hopkins University** 2023-Present
+**University of Chicago** 2025-present
+
+Phd Data Science
+
+**Johns Hopkins University** 2023-2025
 
 ScM Biostatistics
 
 **Georgia Institute of Technology** 2020-2023
 
-BS Biology (minored in Mathematics and Biomedical Engineering)
+BS Biology
