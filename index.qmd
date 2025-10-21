@@ -11,12 +11,12 @@ about:
       href: https://www.linkedin.com/in/shu-luan-a60a391a0/
     - icon: github
       text: GitHub
-      href: https://github.com/sluan-jh
+      href: https://github.com/sluan00
     - text: "{{< fa envelope >}} Email"
-      href: mailto:sluan6@jh.edu
+      href: mailto:sluan00@uchicago.edu
     - icon: resume
       text: "{{< fa file >}} CV"
       href: https://1drv.ms/w/s!Ah2ZTa_nNK08sbohufrEsOjSquKlIA?e=JazhhY
 ---
 
-Hi, I'm Shu Luan. Welcome to my website! I'm currently a ScM [Biostatistics](https://www.jhsph.edu/departments/biostatistics/) student at [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu/). If you are interested in learning more about me, you can find a brief bio in my **about** page. I have linked some of the ways to connect with me below, please feel free to check out.
+Hi, I'm Shu Luan. Thank you for checking out my personal website. I'm pursuing PhD in [Data Science at University of Chicago](https://codas.uchicago.edu/) since 2025. If you would like to find more information about me, I've prepared a brief bio on my **about** page. My professional contacts and resume are also linked below.
